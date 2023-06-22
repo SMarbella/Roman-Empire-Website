@@ -34,8 +34,10 @@ The following EXTRA features are implemented:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
+<img src='https://github.com/SMarbella/Roman-Empire-Website/blob/main/gifs/SMarbella_Roman_Empire.gif' title='Video Demo' width='' alt='Video Demo' />
 
-<img src='https://i.imgur.com/8HBAcMt.gif' title='Video Demo' width='' alt='Video Demo' />
+The menu automatically shows the current page the user is on.
+<img src='https://github.com/SMarbella/Roman-Empire-Website/blob/main/gifs/SMarbella_Roman_Empire_Menu.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **ScreenToGif**
 
