@@ -8,6 +8,8 @@ Time spent: **4** weeks spent in total
 
 **The Roman Empire** is a website and final project for LIS 475: User Interface and Website Design at the University of Arizona in Fall 2021. It gives visitors a quick introduction to the Roman Empire. Each page includes a quick summary of the Roman Empire's history, religious beliefs, citizens' social status, and prominent figures.
 
+BlueGriffon gives me more flexibility in the formatting of my website than WordPress and Drupal because it allows me to edit CSS and HTML code, which provides more customizability when I develop websites. I used BlueGriffon to create this website from scratch.
+
 ## Website Features
 
 The following REQUIRED features are completed:
@@ -33,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://i.imgur.com/qUFCLPO.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://i.imgur.com/8HBAcMt.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **ScreenToGif**
 
