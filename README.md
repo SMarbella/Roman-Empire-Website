@@ -8,7 +8,7 @@ Time spent: **4** weeks spent in total
 
 **The Roman Empire** is a website and final project for LIS 475: User Interface and Website Design at the University of Arizona in Fall 2021. It gives visitors a quick introduction to the Roman Empire. Each page includes a quick summary of the Roman Empire's history, religious beliefs, citizens' social status, and prominent figures.
 
-BlueGriffon gives me more flexibility in the formatting of my website than WordPress and Drupal because it allows me to edit CSS and HTML code, which provides more customizability when I develop websites. I used BlueGriffon to create this website from scratch.
+BlueGriffon gives me more flexibility in the formatting of my website than WordPress and Drupal because it allows me to edit CSS and HTML code, which provides more customizability when I develop websites. I used BlueGriffon to create this website from scratch and React.js to make my website compatible with both mobile devices and computers.
 
 ## Website Features
 
@@ -16,7 +16,7 @@ The following REQUIRED features are completed:
 - [x] HTML code used to build the blueprint of the website
 - [x] Used HTML to give the website a title, pages, and bodies of texts
 - [x] CSS used to create visuals and added images to each website page
-- [x] Website automatically resizes to the changing size of the browser window or screen
+- [x] Use React.js to automatically resize the website to browser size or screen size
 
 The following FUNCTIONALITY features are implemented:
 - [x] Multiple pages in one website
